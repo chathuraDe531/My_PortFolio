@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
-import { Github, Linkedin, MessageCircle, Send, Mail, CheckCircle } from 'lucide-react';
+import { MessageCircle, Send, Mail, CheckCircle } from 'lucide-react';
+import { Github, Linkedin } from './BrandIcons';
 import { useState } from 'react';
 import SectionWrapper, { SectionHeader } from './SectionWrapper';
 

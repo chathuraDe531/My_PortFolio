@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
-import { Github, Linkedin, MessageCircle, Heart, ArrowUp } from 'lucide-react';
+import { MessageCircle, Heart, ArrowUp } from 'lucide-react';
+import { Github, Linkedin } from './BrandIcons';
 
 const SOCIAL = [
   { icon: Github, href: 'https://github.com/chathuraDe531', label: 'GitHub' },
@@ -28,7 +29,7 @@ const Footer = () => {
           >
             <span className="text-2xl font-extrabold gradient-text">CD<span className="text-indigo-400">.</span></span>
             <p className="text-sm text-slate-500 mt-3 leading-relaxed max-w-xs">
-              ICT Undergraduate & Aspiring Software Developer building modern web and mobile applications.
+              BICT (Hons) Undergraduate & Aspiring Software Developer building modern web and mobile applications.
             </p>
           </motion.div>
 

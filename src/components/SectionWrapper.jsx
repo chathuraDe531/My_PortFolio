@@ -4,7 +4,7 @@ const SectionWrapper = ({ id, children, className = '' }) => {
   return (
     <section
       id={id}
-      className={`relative py-24 md:py-32 overflow-hidden ${className}`}
+      className={`relative py-28 md:py-36 lg:py-40 overflow-hidden ${className}`}
     >
       <div className="section-container relative z-10">
         {children}

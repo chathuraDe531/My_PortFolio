@@ -4,16 +4,16 @@ import SectionWrapper, { SectionHeader } from './SectionWrapper';
 
 const EXPERIENCES = [
   {
-    title: "Students' Union Member",
+    title: "Students' Union President",
     org: 'Faculty of Technological Studies, University of Vavuniya',
-    period: 'Present',
+    period: '2026 – Present',
     description:
-      'Actively contribute to student activities, events, coordination, and leadership initiatives within the Faculty of Technological Studies.',
+      'Serving as the President of the Students\' Union for the Faculty of Technological Studies at the University of Vavuniya. Leading student governance, representing undergraduate interests, directing key student initiatives, and organizing academic and cultural development programs.',
     highlights: [
-      'Organize and coordinate student events and activities',
-      'Participate in faculty development and improvement initiatives',
-      'Enhance collaboration and communication skills',
-      'Support fellow students in academic and personal growth',
+      'Lead and represent the student body across faculty board and institutional forums',
+      'Oversee organization and execution of faculty-wide events, workshops, and student welfare activities',
+      'Foster collaboration between faculty administration and undergraduate students',
+      'Spearhead leadership, tech community, and student development initiatives',
     ],
   },
   // Add more experience objects here to expand

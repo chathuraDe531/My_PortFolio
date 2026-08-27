@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
-import { Github, ExternalLink, Layers, Smartphone, Globe } from 'lucide-react';
+import { ExternalLink, Layers, Smartphone, Globe } from 'lucide-react';
+import { Github } from './BrandIcons';
 import SectionWrapper, { SectionHeader } from './SectionWrapper';
 
 const PROJECTS = [
